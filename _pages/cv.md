@@ -11,26 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Astronomy, University of Maryland, 2025 (expected)
+* M.S. in Astronomy, University of Maryland, 2020
+* B.S. in Astronomy and Physics, University of Maryland, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2018 - Spring 2025: Graduate Research Assistant
+  * University of Maryland
+  * Duties includes: Rubble pile & granular mechanics models
+  * Supervisor: Professor Derek Richardson
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2018 - Fall 2020: Graduate Teaching Assistant
+  * University of Maryland
+  * Duties included: Labs, discussions, (expand on this)
+  * Supervisor: Professors Cole Miller, Eliza Kempton, Derek Richardson
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2015 - Spring 2018: Undergraduate Research Assistant
+  * University of Maryland
+  * Duties included: Granular mechanics models (expand on this)
+  * Supervisor: Professor Derek Richardson
+
+* Spring 2015 - Spring 2018: Undergraduate Teaching Assistant
+  * University of Maryland
+  * Duties included: Labs, discussions (expand on this)
+  * Supervisors: Professor Derek Richardson, Doctor Melissa Hayes-Gehrke, Professor Cole Miller
   
 Skills
 ======
@@ -61,4 +66,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* List similary to skills.
