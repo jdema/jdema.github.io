@@ -17,19 +17,24 @@ Education
 
 Work experience
 ======
-* Fall 2018 - Spring 2025: Graduate Research Assistant
+* Fall 2025 - Summer 2028: Postdoctoral Researcher
+  * University of Helsinki
+  * Duties: NEA population models; rubble pile tidal encounter models
+  * Supervisor: Mikael Granvik
+
+* Fall 2018 - Summer 2025: Graduate Research Assistant
   * University of Maryland
-  * Duties includes: Rubble pile & granular mechanics models
+  * Duties: Rubble pile & granular mechanics models
   * Supervisor: Professor Derek Richardson
 
 * Fall 2018 - Fall 2020: Graduate Teaching Assistant
   * University of Maryland
-  * Duties included: Labs, discussions, (expand on this)
+  * Duties: Labs, discussions, (expand on this)
   * Supervisor: Professors Cole Miller, Eliza Kempton, Derek Richardson
 
 * Summer 2015 - Spring 2018: Undergraduate Research Assistant
   * University of Maryland
-  * Duties included: Granular mechanics models (expand on this)
+  * Duties: Granular mechanics models (expand on this)
   * Supervisor: Professor Derek Richardson
 
 * Spring 2015 - Spring 2018: Undergraduate Teaching Assistant
