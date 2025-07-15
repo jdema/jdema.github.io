@@ -21,10 +21,10 @@ repository               : "jdema/jdema.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "DeMartini_Portrait.jpg"
   name             : "Joe DeMartini"
   pronouns         : "He/Him/His"
-  bio              : "University of Maryland Ph.D student studying Planetary Science, Computational Astrophysics, and Granular Mechanics"
+  bio              : "FINESST Fellow. University of Maryland Ph.D student studying Planetary Science, Computational Astrophysics, and Granular Mechanics"
   location         : "Maryland, USA"
   employer         : "Univeristy of Maryland, College Park"
   uri              : # URL
